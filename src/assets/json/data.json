@@ -1,0 +1,129 @@
+{
+  "historyData": [
+    {
+      "id": 41,
+      "action": "Action 3: SQL Injection",
+      "duration": "5",
+      "status": 2,
+      "score": 50,
+      "tags": "T1078",
+      "memo": "A IP with offensive actions has success login on Portal, please find out which account was compromised. Also providing the login time, attacker's IP",
+      "submitAt": "Mon Aug 15 2022 17:05:41 GMT+0800",
+      "answer": {
+        "loginTime": "",
+        "attackerIP": "",
+        "username": ""
+      }
+    },
+    {
+      "id": 12,
+      "action": "Action 3: SQL Injection",
+      "duration": "5",
+      "status": 2,
+      "score": 50,
+      "tags": "T1078",
+      "memo": "A IP with offensive actions has success login on Portal, please find out which account was compromised. Also providing the login time, attacker's IP",
+      "submitAt": "Mon Aug 15 2022 16:55:41 GMT+0800",
+      "answer": {
+        "loginTime": "",
+        "attackerIP": "",
+        "username": ""
+      }
+    },
+    {
+      "id": 6,
+      "action": "Action 4: Back Connect",
+      "duration": "2",
+      "status": 2,
+      "score": 50,
+      "tags": "T1078",
+      "memo": "A IP with offensive actions has success login on Portal, please find out which account was compromised. Also providing the login time, attacker's IP",
+      "submitAt": "Mon Aug 15 2022 17:05:41 GMT+0800",
+      "answer": {}
+    },
+    {
+      "id": 11,
+      "action": "Action 1: DMZ Scanner",
+      "duration": "15",
+      "status": 1,
+      "score": 200,
+      "tags": "T1595",
+      "memo": "A IP with offensive actions has success login on Portal, please find out which account was compromised. Also providing the login time, attacker's IP",
+      "submitAt": "Mon Aug 15 2022 17:05:41 GMT+0800",
+      "answer": {}
+    },
+    {
+      "id": 24,
+      "action": "Action 8: Spear Phishing",
+      "duration": "6",
+      "status": 1,
+      "score": 400,
+      "tags": "T1203",
+      "memo": "A IP with offensive actions has success login on Portal, please find out which account was compromised. Also providing the login time, attacker's IP",
+      "submitAt": "Mon Aug 15 2022 17:05:41 GMT+0800",
+      "answer": {}
+    },
+    {
+      "id": 3,
+      "action": "Action 3: SQL Injection",
+      "duration": "5",
+      "status": 0,
+      "score": 50,
+      "tags": "T1203",
+      "memo": "A IP with offensive actions has success login on Portal, please find out which account was compromised. Also providing the login time, attacker's IP",
+      "submitAt": "Mon Aug 15 2022 17:05:41 GMT+0800",
+      "answer": {}
+    }
+  ],
+  "ticketsData": [
+    {
+      "id": 41,
+      "action": "Action 3: SQL Injection",
+      "duration": "5",
+      "status": 3,
+      "score": 50,
+      "tags": "T1078"
+    },
+    {
+      "id": 12,
+      "action": "Action 3: SQL Injection",
+      "duration": "5",
+      "status": 3,
+      "score": 50,
+      "tags": "T1078"
+    },
+    {
+      "id": 6,
+      "action": "Action 4: Back Connect",
+      "duration": "2",
+      "status": 2,
+      "score": 50,
+      "tags": "T1078"
+    },
+    {
+      "id": 11,
+      "action": "Action 1: DMZ Scanner",
+      "duration": "15",
+      "status": 1,
+      "score": 200,
+      "tags": "T1595"
+    },
+    {
+      "id": 24,
+      "action": "Action 8: Spear Phishing",
+      "duration": "6",
+      "status": 1,
+      "score": 400,
+      "tags": "T1203"
+    },
+    {
+      "id": 3,
+      "action": "Action 3: SQL Injection",
+      "duration": "5",
+      "status": 0,
+      "score": 50,
+      "tags": "T1203"
+    }
+  ]
+}
+

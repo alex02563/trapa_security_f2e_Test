@@ -1,0 +1,26 @@
+{
+  "name": "trapa-security-f2e-test",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "lodash": "^4.17.21",
+    "stylus": "^0.59.0",
+    "stylus-loader": "3",
+    "vue": "^3.2.37",
+    "vue-router": "^4.1.3",
+    "vue-toastification": "^2.0.0-rc.5"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^3.0.3",
+    "autoprefixer": "9",
+    "postcss": "7",
+    "tailwindcss": "npm:@tailwindcss/postcss7-compat",
+    "vite": "^3.0.7"
+  }
+}
