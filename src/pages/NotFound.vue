@@ -1,5 +1,5 @@
 <script setup>
-import img from '/public/favicon.png'
+import img from '/src/assets/png/favicon.png'
 </script>
 
 <template>
