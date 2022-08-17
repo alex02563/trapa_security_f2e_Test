@@ -9,6 +9,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@heroicons/vue": "^1.0.6",
     "lodash": "^4.17.21",
     "stylus": "^0.59.0",
     "stylus-loader": "3",
